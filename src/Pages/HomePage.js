@@ -23,9 +23,9 @@ function HomePage() {
                     <a href="https://github.com/BLSThathsara20/" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://www.linkedin.com/in/blsthathsara/" className="icon i-linkedin">
-                        <LinkedInIcon />
-                    </a>
+                //    <a href="https://www.linkedin.com/in/blsthathsara/" className="icon i-linkedin">
+                 //       <LinkedInIcon />
+                 //   </a>
                 </div>
             </div>
         </HomePageStyled>
