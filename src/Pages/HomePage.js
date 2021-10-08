@@ -2,7 +2,6 @@ import React from 'react'
 import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
-//import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -23,9 +22,6 @@ function HomePage() {
                     <a href="https://github.com/BLSThathsara20/" className="icon i-github">
                         <GithubIcon />
                     </a>
-                //    <a href="https://www.linkedin.com/in/blsthathsara/" className="icon i-linkedin">
-                 //       <LinkedInIcon />
-                 //   </a>
                 </div>
             </div>
         </HomePageStyled>
