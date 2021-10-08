@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
+//import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import Particle from '../Components/Particle';
 
 function HomePage() {
