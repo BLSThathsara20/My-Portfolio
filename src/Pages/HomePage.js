@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
-import YoutubeIcon from '@material-ui/icons/YouTube';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -14,19 +14,17 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>B.L.S. Thathsara</span></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Atque nihil voluptates ea dolore vel 
-                    repellat? Quia tenetur non quam exercitationem. Lorem ipsum dolor sit amet.
+                   I am a Full Stack Web Developer (HTML , CSS , SCSS , JS , REACT , J2EE).
                 </p>
                 <div className="icons">
-                    <a href="https://codepen.io/pen/" className="icon i-facebook">
+                    <a href="https://www.facebook.com/blsthathsara/" className="icon i-facebook">
                         <FacebookIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-github">
+                    <a href="https://github.com/BLSThathsara20/" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-youtube">
-                        <YoutubeIcon />
+                    <a href="https://www.linkedin.com/in/blsthathsara/" className="icon i-linkedin">
+                        <LinkedInIcon />
                     </a>
                 </div>
             </div>
