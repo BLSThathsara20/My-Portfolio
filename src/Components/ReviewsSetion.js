@@ -11,12 +11,12 @@ function ReviewsSetion() {
             <InnerLayout>
                 <div className="reviews">
                     <ReviewItem 
-                        text={'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt culpa ad itaque quas?'} 
+                        text={'Amazing work. Completed it before time. Way better than I Expected. (Fiverr - arishkhalfan)'} 
                     />
-                    <ReviewItem 
+                    {/* <ReviewItem 
                         text={'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt culpa ad itaque quas? Dos ir por culpa ad itaque quas!'} 
                     />
-                    
+                     */}
                 </div>
             </InnerLayout>
         </ReviewsStyled>
