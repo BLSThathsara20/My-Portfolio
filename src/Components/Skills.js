@@ -32,17 +32,17 @@ function Skills() {
                             text={'60%'}
                         />
                         <ProgressBar 
-                            title={'PYTHON'}
-                            width={'95%'}
-                            text={'95%'}
+                            title={'c#'}
+                            width={'65%'}
+                            text={'65%'}
                         />
                         <ProgressBar 
                             title={'React JS'}
-                            width={'75%'}
-                            text={'75%'}
+                            width={'45%'}
+                            text={'45%'}
                         />
                         <ProgressBar 
-                            title={'UNITY'}
+                            title={'Wordpress'}
                             width={'75%'}
                             text={'75%'}
                         />
