@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
+import LinkedIn from '@material-ui/icons/LinkedIn';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -13,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>B.L.S. Thathsara</span></h1>
                 <p>
-                   I am a Full Stack Web Developer (HTML , CSS , SCSS , JS , REACT , J2EE).
+                   Web Developer (Front-End & Back-End) | Freelancer | Social Media Marketer | Web UI (User Interface) Designer
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/blsthathsara/" className="icon i-facebook">
@@ -21,6 +22,9 @@ function HomePage() {
                     </a>
                     <a href="https://github.com/BLSThathsara20/" className="icon i-github">
                         <GithubIcon />
+                    </a>
+                    <a href="https://www.linkedin.com/in/blsthathsara/" className="icon i-linkedin">
+                        <LinkedIn />
                     </a>
                 </div>
             </div>
