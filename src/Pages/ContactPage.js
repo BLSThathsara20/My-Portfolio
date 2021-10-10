@@ -42,7 +42,6 @@ function ContactPage() {
                             <div data-netlify-recaptcha="true"></div>
                         </div>
                         <div className="form-field f-button action">
-                            <button type="submit">Send</button>
                         <input type="submit" value="Submit" />
                         </div>
                     </form>
