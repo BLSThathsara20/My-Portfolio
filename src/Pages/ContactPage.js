@@ -43,6 +43,7 @@ function ContactPage() {
                         </div>
                         <div className="form-field f-button action">
                             <button type="submit">Send</button>
+                        <input type="submit" value="Submit" />
                         </div>
                     </form>
                 </div>
