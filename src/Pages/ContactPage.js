@@ -38,11 +38,11 @@ function ContactPage() {
                             <label htmlFor="text-area">Enter your Message*</label>
                             <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
                         </div>
-<div className="form-field">
+                        <div className="form-field">
                             <div data-netlify-recaptcha="true"></div>
                         </div>
                         <div className="form-field f-button action">
-                            <input type="submit" id="subject" value="Send Message"/> 
+                            <button type="submit">Send</button>
                         </div>
                     </form>
                 </div>
