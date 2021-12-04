@@ -10,11 +10,11 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Savindu Thathsara</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
+                I'm a web developer with a focus on the MERN stack, but still exploring 
+                other technologies and frameworks that catch 
+                my interest! I have good knowledge about GIT version control system.
                     
                 </p>
                 <div className="about-info">
@@ -27,15 +27,15 @@ function ImageSection() {
                         <p>Service</p>
                     </div>
                     <div className="info">
-                        <p>: Lorem Ipsum</p>
-                        <p>: 36</p>
-                        <p>: Spainsh </p>
-                        <p>: Spanish, French, English </p>
-                        <p>: London, United Kingdom</p>
+                        <p>: B.L.S. Thathsara</p>
+                        <p>: 21</p>
+                        <p>: Sri Lankan </p>
+                        <p>: English , Sinhala </p>
+                        <p>: Weeraketiya, Hambantota, Sri Lanka</p>
                         <p>: Freelance</p>
                     </div>
                 </div>
-                <PrimaryButton title={'Download Cv'} />
+                <a href="https://drive.google.com/file/d/1Q82bXA7O_8v5BMh9kcjwfA831Tw8-rdC/view?usp=sharing"> <PrimaryButton title={'Download Cv'} /> </a>
             </div>
         </ImageSectionStyled>
     )
