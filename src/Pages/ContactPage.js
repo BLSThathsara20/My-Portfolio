@@ -21,7 +21,7 @@ function ContactPage() {
                     <div className="contact-title">
                         <h4>Get In Touch</h4>
                     </div>
-                    <form  className="form">
+                    <form  className="form" method="POST" data-netlify="true">
                         <div className="form-field">
                             <label htmlFor="name"  >Enter your name*</label>
                             <input type="text" id="name" />
@@ -38,8 +38,11 @@ function ContactPage() {
                             <label htmlFor="text-area">Enter your Message*</label>
                             <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
                         </div>
-                        <div className="form-field f-button">
-                            <PrimaryButton title={'Send Email'} />
+                        <div className="form-field">
+                            <div data-netlify-recaptcha="true"></div>
+                        </div>
+                        <div className="form-field f-button action">
+                        <input type="submit" value="Submit" />
                         </div>
                     </form>
                 </div>
