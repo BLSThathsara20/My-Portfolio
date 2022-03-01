@@ -24,18 +24,18 @@ function ImageSection() {
                         <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
-                        <p>Service</p>
+                        <p>Job Title</p>
                     </div>
                     <div className="info">
                         <p>: B.L.S. Thathsara</p>
-                        <p>: 21</p>
+                        <p>: 22</p>
                         <p>: Sri Lankan </p>
                         <p>: English , Sinhala </p>
                         <p>: Weeraketiya, Hambantota, Sri Lanka</p>
-                        <p>: Freelance</p>
+                        <p>: Traniee Software Engineer</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1Q82bXA7O_8v5BMh9kcjwfA831Tw8-rdC/view?usp=sharing"> <PrimaryButton title={'Download Cv'} /> </a>
+                <a href="https://drive.google.com/uc?export=download&id=1aK98IscT27qQjcn46icfWR4W0Y3PNf97"> <PrimaryButton title={'Download Cv'} /> </a>
             </div>
         </ImageSectionStyled>
     )
