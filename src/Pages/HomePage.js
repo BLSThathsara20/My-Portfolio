@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>B.L.S. Thathsara</span></h1>
                 <p>
-                Web Developer (Front-End & Back-End) | Freelancer | Social Media Marketer | Web UI (User Interface) Designer
+                Trainee Software Engineer | Freelancer | Social Media Marketer | Web UI (User Interface) Designer.
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/blsthathsara/" className="icon i-facebook">
